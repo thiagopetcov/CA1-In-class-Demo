@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cafemenu>
-  <section name="Heavy Metal">
-    <entree>
-      <item>1</item>
-      <price>60</price>
-    </entree>
-    <entree>
-      <item>1</item>
-      <price/>
-    </entree>
-  </section>
+  <section name="Heavy Metal"/>
   <section name="Black Metal">
     <entree>
       <item>Mayhem</item>
       <price>35</price>
-    </entree>
-    <entree>
-      <item>Satyricon</item>
-      <price>30</price>
     </entree>
     <entree vegetarian="true">
       <item>Belphegor</item>
@@ -65,6 +52,10 @@
     </entree>
     <entree>
       <item>1</item>
+      <price/>
+    </entree>
+    <entree>
+      <item/>
       <price/>
     </entree>
   </section>

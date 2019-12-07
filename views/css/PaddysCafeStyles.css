@@ -5,6 +5,7 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
+background-image: url("../img/Stage_Helloween_2560x1440.jpg");
 }
 .footer {
   position: absolute;
@@ -19,6 +20,7 @@ table, th, td {
      border-collapse: collapse;
      border: 1px solid black;
      text-align: center;
+     background-color: white;
 }
  table {
      border-collapse: collapse;
